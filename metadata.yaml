@@ -1,9 +1,13 @@
 _repo: Brittany_51022
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Wylie, J.
     gutenberg_agent_id: '46200'
     url: http://www.gutenberg.org/2009/agents/46200
+covers:
+- cover_type: archival
+  image_path: 51022-h/images/cover.jpg
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51022#Brittany
 gutenberg_issued: '2016-01-24'
 gutenberg_type: Text
 identifiers:
